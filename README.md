@@ -45,7 +45,7 @@
 
     <hr>
 
-    <a href="https://www.youtube.com/watch?v=PlxWf493en4" target="_blank" rel="noopener">
+    <a href="https://www.youtube.com/watch?v=PlxWf493en4&pp=ygUkaG93IHRvIGNyZWF0ZSBhIHNpbXBsZSBodG1sIHdlYiBwYWdl" target="_blank" rel="noopener">
         I love you, YouTube, for the tutorial video
     </a><br>
 
